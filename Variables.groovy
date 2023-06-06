@@ -11,7 +11,7 @@ def (a,b,c) = [10,20,30]
 println a
 println b
 println c
-def (int a,String b,float c) = [10,20,30]
-println a
-println b
-println c
+def (int d,String e,float f) = [10,20,30]
+println d
+println e
+println f
