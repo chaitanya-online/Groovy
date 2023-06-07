@@ -7,5 +7,10 @@ static void main (String[]args)
     println "My name is ".concat(name)
     println "My name is ${name}"
     println "My name is $name"
+	
+	def subject = """This is groovy script"""
+	println subject
+	println subject.length()
+	println subject[-0].toLowerCase()
 }
 }
